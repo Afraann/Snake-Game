@@ -3,10 +3,14 @@ In this repository, there are links, code, circuit diagram and procedure to help
 
 ## Acknowledgement
 This project was developed with guidance and references from multiple sources. I would like to express my sincere gratitude to Aadarsh UNO, a creator from Hacster.io whose guide and reference materials helped me throughout the process.
+
 👤 Creator Profile: (https://www.hackster.io/auditlalchandani2232)
+
+
 🌐 Website: (https://www.hackster.io/auditlalchandani2232/mobile-snake-game-using-arduino-uno-bc819e#team)
 
 I would also like to extend my heartfelt thanks to ComedKares Innovation Hub for their mentorship and support. This project was entirely developed and brought into fruition in their workspace. The friendly atmosphere was an ideal environment to work in.
+
 🌐 Website: (https://www.comedkares.org)
 
 ## Introduction
